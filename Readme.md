@@ -69,7 +69,7 @@ __I am a student__
 
 ### Task List :
 - [x] Task1
-- [] Task2
+- [y] Task2
 - [x] Task3
 
 ### Task List :
